@@ -1,1 +1,1 @@
-Aplikasi Latihan Kuliah untuk mengirim dan menerima broadcast
+Aplikasi latihan kuliah untuk mengirim dan menerima broadcast dengan sederhana
